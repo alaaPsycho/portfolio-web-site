@@ -981,7 +981,7 @@ color: var(--white);
 .swiper-slide {
 	background-position: center;
 	background-size: cover;
-	width: 42rem !important;
+	width: 32rem !important;
 	height: 32rem !important;
 	overflow: hidden;
 	border-radius: .8rem;
