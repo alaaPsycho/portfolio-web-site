@@ -975,8 +975,6 @@ color: var(--white);
  align-items: center;
 }
 .swiper {
-	max-width: 60rem;
-	width: 100%;
 	padding-bottom: 5rem !important;
 }
 
