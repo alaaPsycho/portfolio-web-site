@@ -983,8 +983,8 @@ color: var(--white);
 .swiper-slide {
 	background-position: center;
 	background-size: cover;
-	width: 32rem !important;
-	height: 20rem !important;
+	width: 42rem !important;
+	height: 32rem !important;
 	overflow: hidden;
 	border-radius: .8rem;
 }
@@ -1083,7 +1083,7 @@ color: var(--main);
 /*footer*/
 @media screen and (max-width:768PX) {
         html{
-            font-size: 55%;
+            font-size: 50%;
         }
         
        }
